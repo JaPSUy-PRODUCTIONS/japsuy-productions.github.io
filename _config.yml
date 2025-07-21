@@ -1,4 +1,4 @@
 title: MCGI PRODUCTIONS PDB
 logo: /assets/img/logo.jpg
 #description: Pag - Ibig
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/leap-day@v0.2.0
