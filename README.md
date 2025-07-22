@@ -1,3 +1,6 @@
+logo: assets/viber_image_2025-07-22_03-26-27-304.jpg
+
+
 # MCGI PRODUCTIONS
 PASO DE BLAS, VALENZUELA CITY
 
