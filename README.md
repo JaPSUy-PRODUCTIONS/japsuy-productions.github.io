@@ -27,15 +27,28 @@ PASO DE BLAS, VALENZUELA CITY
 
 
 ## EQUIPMENTS
-- DESKTOP
-- AUDIO INTERFACE (XTuga)
-- UPS (uninterupted power supply)
-- 
+
+### DESKTOP
+![DESKTOP](assets/DESKTOP.png)
+
+### AUDIO INTERFACE
+![XTUGA](assets/XTUGA.webp)
+
+### UPS
+![UNINTERRUPTED POWER SUPPLY](assets/ups_2000va.jpg)
+
 ### MIXER
 ![AUDIO MIXER](assets/mixer.jpeg)
 
-- MAIN SPEAKERS
-- MICs
+### MAIN SPEAKERS
+![MAIN SPEAKERS](assets/MAINSPEAKERS.webp)
+
+### WIRELESS MIC
+![WIRELESS MIC](assets/WIRELESSMIC.webp)
+
+### WIRES MIC
+![WIRED MIC](assets/WIREDMIC.png)
+
 
 
 
