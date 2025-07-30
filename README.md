@@ -27,7 +27,7 @@ PASO DE BLAS, VALENZUELA CITY
 
 
 ## EQUIPMENTS
-[DESKTOP] ()
+[DESKTOP] (/assets/img/)
 - AUDIO INTERFACE (XTuga)
 - UPS (uninterupted power supply)
 - AUDIO MIXER
