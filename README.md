@@ -61,11 +61,11 @@ PASO DE BLAS, VALENZUELA CITY
 ## WORKER (spiritual aspect)
 ## DEACON/DEACONESS (management aspect)
 ## MCGIPRO LOCALE HEAD (technical aspect)
-## Kung pasado nasa evaluation ay saka lamang sila maaaring irekomenda na maging kasaping MCGIPRO at ito ay upon approval ng DS at KNP.
-Kinakailangan ding magpasa sila ng video ng kanilang statement of faith at maging ang mga matagal ng member ng MCGIPRO.
+### Kung pasado nasa evaluation ay saka lamang sila maaaring irekomenda na maging kasaping MCGIPRO at ito ay upon approval ng CS at SIC.
+### Kinakailangan ding magpasa sila ng video ng kanilang statement of faith at maging ang mga matagal ng member ng MCGIPRO.
 
 ## JOB DESCRIPTION
-### Manpower
+#### Manpower
 - Division Coordinator - nakikipag coordinate sa National MCGIPRO tungkol sa mga dapat maisagawa sa MCGIPRO Section.
 - Division Staff - Monitoring, consolidation ng mga report mula sa bawat Distrito.
 - District Coordinator - Monitoring sa bawat lokal at nakikipag coordinate sa Division MCGIPRO tungkol sa mga dapat maisagawa sa MCGIPRO Section.
