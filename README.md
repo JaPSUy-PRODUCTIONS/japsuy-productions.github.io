@@ -30,7 +30,10 @@ PASO DE BLAS, VALENZUELA CITY
 - DESKTOP
 - AUDIO INTERFACE (XTuga)
 - UPS (uninterupted power supply)
+- 
+### MIXER
 ![AUDIO MIXER](assets/mixer.jpeg)
+
 - MAIN SPEAKERS
 - MICs
   
