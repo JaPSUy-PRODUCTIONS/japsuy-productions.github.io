@@ -39,7 +39,7 @@ PASO DE BLAS, VALENZUELA CITY
 
 
 
-# MCGI PRODUTIONS BY LAWS
+# MCGI PRODUCTIONS BY LAWS
 
 ### MCGIPRO
 ### Technical Operations for Church events and gatherings.
