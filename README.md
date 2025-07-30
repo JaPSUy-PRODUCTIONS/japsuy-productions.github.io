@@ -41,9 +41,9 @@ PASO DE BLAS, VALENZUELA CITY
 
 # MCGI PRODUTIONS BY LAWS
 
-## MCGIPRO
-## Technical Operations for Church events and gatherings.
-## Technical augmentation for special events; like Wish, UNTV Repaso and the likes.
+### MCGIPRO
+### Technical Operations for Church events and gatherings.
+### Technical augmentation for special events; like Wish, UNTV Repaso and the likes.
 
 ## MEMBERSHIP REQUIREMENTS
 - Ang isang miyembro ng MCGIPRO ay marapat magtaglay ng buong pagtitiwala at katapatan sa ating mga mangangaral.  Kamalasakit sa lahat ng kanilang mga itinataguyod.
